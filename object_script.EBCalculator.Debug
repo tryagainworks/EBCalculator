@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\dlgmain.o
+./debug\clsactivityaccess.o
+./debug\dlgglobalcalc.o
+./debug\dlgmotorcalc.o
+./debug\dlgsettings.o
+./debug\clsebamtprocs.o
+./debug\clssettingvarriables.o
+./debug\clssettingsbase.o
+./debug\qrc_imgresource.o
+./debug\moc_dlgmain.o
+./debug\moc_dlgglobalcalc.o
+./debug\moc_dlgmotorcalc.o
+./debug\moc_dlgsettings.o
+);

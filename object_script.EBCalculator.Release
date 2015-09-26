@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\dlgmain.o
+./release\clsactivityaccess.o
+./release\dlgglobalcalc.o
+./release\dlgmotorcalc.o
+./release\dlgsettings.o
+./release\clsebamtprocs.o
+./release\clssettingvarriables.o
+./release\clssettingsbase.o
+./release\qrc_imgresource.o
+./release\moc_dlgmain.o
+./release\moc_dlgglobalcalc.o
+./release\moc_dlgmotorcalc.o
+./release\moc_dlgsettings.o
+);
