@@ -37,4 +37,4 @@ About Application:
 
 1.	To calculated the Electricity Bill amount for the given unit (Domestic)
 
-2.	If any of the electrical devices used with shared current, then that shared amount can be calculated.
+2.	If any of the water motor used with shared current, then that shared ammount can be calculated.
