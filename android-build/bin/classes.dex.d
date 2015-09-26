@@ -1,0 +1,27 @@
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes.dex : \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\example\EBCalculator\BuildConfig.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\example\EBCalculator\R$array.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\example\EBCalculator\R$attr.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\example\EBCalculator\R$drawable.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\example\EBCalculator\R$layout.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\example\EBCalculator\R$string.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\example\EBCalculator\R.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$1.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$2.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1$1.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$4.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$5.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$6.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtApplication$InvokeResult.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtApplication.class \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\dexedLibs\QtAndroid-bundled-abbf3867f01c1a20cbf5a5cf498ee3bc.jar \
+D:\QTApps\EBCalculatorGitHub\EBCalculator\android-build\bin\dexedLibs\QtAndroidAccessibility-bundled-54c3eb38a047cb1f2bd8216102f54780.jar \
