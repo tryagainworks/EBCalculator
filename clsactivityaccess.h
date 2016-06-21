@@ -21,7 +21,7 @@ public:
     QIntValidator *qintvalid;
     clsActivityAccess();
     ~clsActivityAccess();
-    void fnSetNextActivity(NextActivity na, bool blnExitCurrentActivity=true, QDialog *dlg=0);
+    void fnSetNextActivity(NextActivity na, bool blnExitCurrentActivity=true);
 
     bool blnShowMain;
     bool blnShowGlobalCalc;

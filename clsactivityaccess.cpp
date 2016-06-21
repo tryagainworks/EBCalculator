@@ -42,8 +42,8 @@ void clsActivityAccess::fnSetActivityState(bool blnMain, bool blnGlobalCalc,bool
 }
 
 
-void clsActivityAccess::fnSetNextActivity(NextActivity na, bool blnExitCurrentActivity, QDialog *dlg){
-    dlg = new QDialog(0,0);
+void clsActivityAccess::fnSetNextActivity(NextActivity na, bool blnExitCurrentActivity){//, QDialog *dlg){
+    //dlg = new QDialog(0,0);
     switch(na){
     case actMain:
         fnSetActivityState(true,false,false,false);
